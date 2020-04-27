@@ -1,0 +1,32 @@
+.scrape-btn {
+  margin-right: 8px;
+}
+.jumbotron {
+  background-image: url("img/news-background.jpg");
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+  margin: 0 10%;
+}
+.display-4 {
+  font-size: 130px;
+}
+.lead {
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.card {
+  background-color: lightpink;
+}
+.card-header {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: maroon;
+  font-size: 40px;
+}
+.comment-button {
+  float: right;
+  background-color: lightslategray;
+  border-color: lightslategray;
+  font-weight: bold;
+}
